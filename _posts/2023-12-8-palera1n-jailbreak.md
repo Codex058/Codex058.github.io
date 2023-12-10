@@ -7,7 +7,7 @@ tags: [iphone, jailbreak, linux]
 
 # Installing palera1n
 
-<!-- If you need help in English, join the r/Jailbreak Discord Server. -->
+If you need help in English, join my [Codex](https://discord.gg/v6Z7xWpNrj) Discord Server. You can also check out the [Linux guide](https://ios.cfw.guide/installing-palera1n/).
 
 palera1n is an unfinished jailbreak that works with A11 (iPhone X) and older devices on iOS 15.0 or higher, with some limitations for A11 devices.
 
@@ -58,3 +58,4 @@ You'll need to do this every time you jailbreak your device again.
 * Press Enter and follow the instructions on the screen to enter DFU mode.
 * Open the palera1n loader app and tap Sileo. After a while, you'll be asked to set a passcode for using command line stuff, and then afterwards, Sileo should be on your home screen.
 * To jailbreak your device again, simply run the command you just ran again and then repeat any other relevant steps.
+
